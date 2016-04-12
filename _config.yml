@@ -1,0 +1,28 @@
+name: 'Monsieur Lapin '
+favicon: null
+layout_spectrum: 0.31346566742286086
+typography_spectrum: 0.7491412090603262
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.9046194900292903
+  lightness: 0.4561801457311958
+  saturation: 0.1158192646689713
+  rhythmicContrast: 0.25569213600829244
+purpose: []
